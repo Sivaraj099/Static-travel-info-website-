@@ -1,0 +1,148 @@
+      <!-- 
+        - #POPULAR
+      -->
+
+      <section class="section popular">
+        <div class="container">
+
+          <p class="section-subtitle">Featured Tours</p>
+
+          <h2 class="h2 section-title">Most Popular Tours</h2>
+
+          <ul class="popular-list">
+
+            <li>
+              <div class="popular-card">
+
+                <figure class="card-banner">
+                  <a href="#">
+                    <img src="./assets/images/popular-1.png" width="740" height="518" loading="lazy"
+                      alt="Kuala Lumpur, Malaysia" class="img-cover">
+                  </a>
+
+                  <span class="card-badge">
+                    <ion-icon name="time-outline"></ion-icon>
+
+                    <time datetime="P12D">12 Days</time>
+                  </span>
+                </figure>
+
+                <div class="card-content">
+
+                  <div class="card-wrapper">
+                    <div class="card-price">From $50.00</div>
+
+                    <div class="card-rating">
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star-outline"></ion-icon>
+
+                      <data value="2">(2)</data>
+                    </div>
+                  </div>
+
+                  <h3 class="card-title">
+                    <a href="#">A good traveler has no fixed plans and is not intent on arriving.</a>
+                  </h3>
+
+                  <address class="card-location">Kuala Lumpur, Malaysia</address>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="popular-card">
+
+                <figure class="card-banner">
+                  <a href="#">
+                    <img src="./assets/images/popular-2.jpg" width="740" height="518" loading="lazy"
+                      alt="Kuala Lumpur, Malaysia" class="img-cover">
+                  </a>
+
+                  <span class="card-badge">
+                    <ion-icon name="time-outline"></ion-icon>
+
+                    <time datetime="P12D">12 Days</time>
+                  </span>
+                </figure>
+
+                <div class="card-content">
+
+                  <div class="card-wrapper">
+                    <div class="card-price">From $50.00</div>
+
+                    <div class="card-rating">
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star-outline"></ion-icon>
+
+                      <data value="2">(2)</data>
+                    </div>
+                  </div>
+
+                  <h3 class="card-title">
+                    <a href="#">A good traveler has no fixed plans and is not intent on arriving.</a>
+                  </h3>
+
+                  <address class="card-location">Kuala Lumpur, Malaysia</address>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="popular-card">
+
+                <figure class="card-banner">
+                  <a href="#">
+                    <img src="./assets/images/popular-3.jpg" width="740" height="518" loading="lazy"
+                      alt="Kuala Lumpur, Malaysia" class="img-cover">
+                  </a>
+
+                  <span class="card-badge">
+                    <ion-icon name="time-outline"></ion-icon>
+
+                    <time datetime="P12D">12 Days</time>
+                  </span>
+                </figure>
+
+                <div class="card-content">
+
+                  <div class="card-wrapper">
+                    <div class="card-price">From $50.00</div>
+
+                    <div class="card-rating">
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star"></ion-icon>
+                      <ion-icon name="star-outline"></ion-icon>
+
+                      <data value="2">(2)</data>
+                    </div>
+                  </div>
+
+                  <h3 class="card-title">
+                    <a href="#">A good traveler has no fixed plans and is not intent on arriving.</a>
+                  </h3>
+
+                  <address class="card-location">Kuala Lumpur, Malaysia</address>
+
+                </div>
+
+              </div>
+            </li>
+
+          </ul>
+
+        </div>
+      </section>
+
+
